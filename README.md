@@ -36,7 +36,7 @@ Included popups that provide additional information about the earthquake when it
 
 Created a legend that will provide context for your map data.
 
-image
+![map text](/Images/challenge%20.png)
 Part 2:
 
 Gather and Plot More Data

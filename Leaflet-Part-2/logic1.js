@@ -86,7 +86,7 @@ function createMap(earthquakes) {
         }).addTo(tectonicPlates);
     });
 
-    // Create a baseMaps object.
+    // Create a baseMaps object
     var baseMaps = {
         "Satellite": satellite,
         "Grayscale": grayscale,
